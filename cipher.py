@@ -5,7 +5,7 @@ class CaesarCipher:
         pass
 
     def crypting(self, msg:str)->str:
-        for char in text:
+        for char in msg:
             if not char.isalpha():
                 continue
             char = char.upper()
@@ -15,7 +15,7 @@ class CaesarCipher:
             self.crypt += chr(code)
 
     def decrypting(self, msg:str)->str:            
-        for char in cipher:
+        for char in msg:
             if not char.isalpha():
                 continue
             char = char.upper()

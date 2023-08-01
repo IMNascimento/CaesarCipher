@@ -5,7 +5,9 @@
 
 <p>
 Esta cifra foi (provavelmente) inventada e usada por Caio Júlio César e suas tropas durante as Guerras da Gália. A ideia é bastante simples – cada letra da mensagem é substituída por seu consequente mais próximo ( A torna-se B , B torna-se C e assim por diante). A única exceção é Z , que se torna A .
+Vejam na imagem a baixo:
 </p>
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/ceaserCipher.png" alt="exemplo cipher">
 <h4>
 Nós o escrevemos usando as seguintes suposições:
 </h4>

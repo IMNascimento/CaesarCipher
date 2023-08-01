@@ -29,6 +29,6 @@ Nós o escrevemos usando as seguintes suposições:
 **linha 13:** imprima a cifra.<br>
 ## Dicas utilização:
 
-**0-** Para utilizar execute o main.py.
-**1-** Caso queira alterar a palavra pode utilizar um input.
-**2-** Em caso de teste realize o clone do projeto.
+**0-** Para utilizar execute o main.py.<br>
+**1-** Caso queira alterar a palavra pode utilizar um input.<br>
+**2-** Em caso de teste realize o clone do projeto.<br>

@@ -27,3 +27,8 @@ Nós o escrevemos usando as seguintes suposições:
 **linha 10:** ...mude para o código A ;<br>
 **linha 11:** anexa o caractere recebido ao final da mensagem criptografada;<br>
 **linha 13:** imprima a cifra.<br>
+## Dicas utilização:
+
+**0-** Para utilizar execute o main.py.
+**1-** Caso queira alterar a palavra pode utilizar um input.
+**2-** Em caso de teste realize o clone do projeto.

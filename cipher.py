@@ -4,7 +4,7 @@ class CaesarCipher:
     def __init__(self):
         pass
 
-    def crypting(self, msg:str)->str:
+    def crypting(self, msg:str)->None:
         for char in msg:
             if not char.isalpha():
                 continue
@@ -14,7 +14,7 @@ class CaesarCipher:
                 code = ord('A')
             self.crypt += chr(code)
 
-    def decrypting(self, msg:str)->str:            
+    def descrypting(self, msg:str)->None:            
         for char in msg:
             if not char.isalpha():
                 continue
@@ -23,5 +23,6 @@ class CaesarCipher:
             if code < ord('A'):
                 code = ord('Z')
             self.descrypt += chr(code)
+            
     
     
